@@ -1,4 +1,3 @@
-#17014182
 from State import *
 from socket import socket
 from sys import argv
